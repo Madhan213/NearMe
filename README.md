@@ -149,9 +149,5 @@ PUSHPAA MEDICAL AT HOSUR
 
 
 
-
-## HTML VALIDATOR
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
